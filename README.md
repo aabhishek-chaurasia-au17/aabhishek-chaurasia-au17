@@ -14,7 +14,7 @@
   
 
 <a href="https://github.com/sadanandpai/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabhishek-chaurasia-au17&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabhishek-chaurasia-au17&theme=radical&hide" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aabhishek-chaurasia-au17&show_icons=true&theme=radical&line_height=27%22%20alt=%22Abhishek%27s%20github%20stats" />
