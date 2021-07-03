@@ -2,13 +2,13 @@
 <h3 align="center">Full Stack developer who aims to write quality code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabhishek-chaurasia-au17" alt="Abhishek" /> </p>
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/aabhishek-chaurasia-au17)
+- 👨‍💻 All Of My Projects Are Available @ [github](https://github.com/aabhishek-chaurasia-au17)
 
-- 💬 Ask me about **Python, HTML, CSS, Bootstrap, JavaScript**
+- 💬 Ask Me About **Python, HTML, CSS, Bootstrap, JavaScript**
 
-- 📫 How to reach me **Abhishekc838@gmail.com**
+- 📫 How To Reach Me **abhishekc838@gmail.com**
 
-- ⚡ Fun fact **sometimes humorous**
+- ⚡ Fun Fact **Sometimes Humorous**
 
 <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="react" width="20" height="20"/>  <img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-512.png" alt="bootstrap" width="20" height="25"/> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="20" height="20"/> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html5" width="20" height="20"/> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-20-555998.png" alt="javascript" width="20" height="20"/></p><p align="center">
   
