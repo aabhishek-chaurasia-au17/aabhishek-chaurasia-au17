@@ -19,7 +19,7 @@
   
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
- <a align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?username=aabhishek-chaurasia-au17&theme=radical&hide"  /></a>
+ <a align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=aabhishek-chaurasia-au17&theme=radical&hide"  /></a>
   
 <a href="https://github.com/aabhishek-chaurasia-au17/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabhishek-chaurasia-au17&theme=radical&hide" />
