@@ -15,7 +15,22 @@
 
 - 💬 Feel Free To Reach Out To Me For Consulting, Volunteering Or Just For Some Interesting Discussion
 
-<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="react" width="20" height="20"/>  <img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-512.png" alt="bootstrap" width="20" height="25"/> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="20" height="20"/> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html5" width="20" height="20"/> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-20-555998.png" alt="javascript" width="20" height="20"/></p><p align="center">
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+
+<br />
+
+
+<!-- <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="react" width="20" height="20"/>  <img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-512.png" alt="bootstrap" width="20" height="25"/> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="20" height="20"/> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html5" width="20" height="20"/> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-20-555998.png" alt="javascript" width="20" height="20"/></p><p align="center"> -->
   
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
