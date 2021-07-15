@@ -15,7 +15,7 @@
 
 - 💬 Feel Free To Reach Out To Me For Consulting, Volunteering Or Just For Some Interesting Discussion
 
-### :
+
 <h2>🌎 &nbsp; Languages and Tools</h2>
 
 
