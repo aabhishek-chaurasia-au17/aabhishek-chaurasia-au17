@@ -32,14 +32,7 @@
 <br />
 
 
-  
- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<a href="https://github.com/aabhishek-chaurasia-au17/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aabhishek-chaurasia-au17&show_icons=true&theme=radical&line_height=27%22%20alt=%22Abhishek%27s%20github%20stats" />
-</a> 
-
-<h2><i>My GitHub Stats</i></h2>
+ <h2>My GitHub Stats</h2>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aabhishek-chaurasia-au17&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="a-abhishek" height="139" />
