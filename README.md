@@ -42,8 +42,8 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aabhishek-chaurasia-au17&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical&line" alt="a-abhishek" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabhishek-chaurasia-au17&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical&line" alt="a-abhishek" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aabhishek-chaurasia-au17&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical&line&line_height=27%22%20" alt="a-abhishek" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabhishek-chaurasia-au17&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical&line&line_height=27%22%20" alt="a-abhishek" height="139" />
 </p>
 <br>
 
