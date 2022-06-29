@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Chaurasia</h1>
 <h3 align="center">Full Stack Developer Who Aims To Write Quality Code</h3>
-<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="100"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aabhishek-chaurasia-au17" alt="Abhishek" /> </p>
 
 - 💡 I Like To Explore New Trends And Learn New Technologies.
