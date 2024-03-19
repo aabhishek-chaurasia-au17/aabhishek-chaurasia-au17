@@ -15,6 +15,7 @@
 
 
 ![image](https://github.com/mukulrajpoot262610/mukulrajpoot262610/assets/73209159/02ff749b-8ab8-4bac-b61f-326252056711)
+<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
 
 - 👨🏽‍💻 I’m currently working on Microservices;
 - 🌱 I’m currently learning Docker and Continuous Integration; 
